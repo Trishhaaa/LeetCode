@@ -13,7 +13,6 @@ public class Solution {
     public ListNode detectCycle(ListNode head) {
         int length=0;
         length=lengthOfCycle(head);
-        //if no cycle is present then return null
         if(length==0){
             return null;
         }
