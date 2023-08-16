@@ -4,11 +4,12 @@ class Solution {
         if(n<5){
             return 0;
         }
-        //number is decreased exponentially
+
         while(n>4){
-           n=n/5;
-           count+=n;
+            n=n/5;
+            count+=n;
         }
+
         return count;
     }
 }
