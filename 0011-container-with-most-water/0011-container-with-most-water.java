@@ -3,10 +3,10 @@ class Solution {
         int ans=0;
         int left=0;
         int right=height.length-1;
+
         while(left<right){
-            int length=right-left;
-            int area= length* Math.min(height[left],height[right]);
-            ans= Math.max(area, ans);
+            int area=(right-left)*Math.min(height[left],height[right]);
+            ans=Math.max(area,ans);
 
             if(height[left]<height[right]){
                 left++;
@@ -15,6 +15,8 @@ class Solution {
                 right--;
             }
         }
+
         return ans;
+        
     }
 }
