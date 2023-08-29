@@ -1,7 +1,7 @@
 class Solution {
     public int bestClosingTime(String customers) {
         int len=customers.length();
-        int Y=0;
+        int Y=0; //the total number of Y
         for(int i=0;i<len;i++){
             Y+=customers.charAt(i)=='Y'?1:0;
         }
@@ -13,7 +13,7 @@ class Solution {
 
         for(int i=0;i<=len;i++){
             int y_remaining=Y-y_found;
-            int pen=y_remaining+n_found;
+            int pen=y_remaining+n_found;    //the current penalty is the number of Y remaining (closed but customers there)and the N found(open but no customers)
 
             if(pen<min_p){
                 hour=i;
