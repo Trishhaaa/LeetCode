@@ -15,12 +15,13 @@ class Solution {
         }
 
         result.add(newInterval);
+
         while(i<intervals.length){
             result.add(intervals[i]);
             i++;
         }
 
         return result.toArray(new int[result.size()][]);
-
+        
     }
 }
