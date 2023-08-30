@@ -1,13 +1,16 @@
 class Solution {
     public boolean canMakeArithmeticProgression(int[] arr) {
-        if (arr.length == 2)
+        if(arr.length<=2){
             return true;
+        }
+
         Arrays.sort(arr);
-        int length = arr.length;
-        int difference = arr[1] - arr[0];
-        for (int i = 2; i < length; i++) {
-            if (arr[i] - arr[i - 1] != difference)
+        int diff=arr[1]-arr[0];
+
+        for(int i=2;i<arr.length;i++){
+            if(arr[i]-arr[i-1]!=diff){
                 return false;
+            }
         }
         return true;
     }
