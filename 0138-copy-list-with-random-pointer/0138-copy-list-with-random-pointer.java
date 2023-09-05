@@ -16,9 +16,10 @@ class Node {
 class Solution {
     public Node copyRandomList(Node head) {
         if(head==null){
-            return head;
+            return null;
         }
-        Node curr= head;
+        Node curr=head;
+        //1. Create a new node for every node and insert it next to the original node
         while(curr!=null){
             Node newNode= new Node(curr.val);
             newNode.next=curr.next;
@@ -26,7 +27,8 @@ class Solution {
             curr=newNode.next;
         }
 
-        curr= head;
+        //2. Update the random pointers of the new nodes
+        curr=head;
         while(curr!=null){
             if(curr.random!=null){
                 curr.next.random=curr.random.next;
@@ -34,19 +36,18 @@ class Solution {
             curr=curr.next.next;
         }
 
-        Node newHead= head.next;
-        Node copiedCurr=newHead;
+        //3. Separate the new list from the original list
+        Node newHead=head.next;
         curr=head;
+        Node newCurr=newHead;
         while(curr!=null){
-            curr.next=curr.next.next;
-            if(copiedCurr.next!=null){
-                copiedCurr.next=copiedCurr.next.next;
+            curr.next=newCurr.next;
+            if(newCurr.next!=null){
+                newCurr.next=curr.next.next;
             }
-
-            copiedCurr=copiedCurr.next;
+            newCurr=newCurr.next;
             curr=curr.next;
         }
-
         return newHead;
     }
 }
