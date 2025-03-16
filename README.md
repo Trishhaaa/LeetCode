@@ -179,6 +179,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Trishhaaa/LeetCode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Trishhaaa/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Trishhaaa/LeetCode/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/Trishhaaa/LeetCode/tree/master/0948-sort-an-array) |
@@ -217,6 +218,7 @@
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Trishhaaa/LeetCode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Trishhaaa/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/Trishhaaa/LeetCode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/Trishhaaa/LeetCode/tree/master/1196-filling-bookcase-shelves) |
@@ -240,6 +242,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Trishhaaa/LeetCode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Trishhaaa/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Trishhaaa/LeetCode/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Trishhaaa/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
