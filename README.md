@@ -219,6 +219,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Trishhaaa/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Trishhaaa/LeetCode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Trishhaaa/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/Trishhaaa/LeetCode/tree/master/0948-sort-an-array) |
@@ -243,6 +244,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Trishhaaa/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Trishhaaa/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Trishhaaa/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Trishhaaa/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
