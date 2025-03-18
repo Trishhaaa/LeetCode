@@ -241,6 +241,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/Trishhaaa/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Trishhaaa/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Trishhaaa/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2478-longest-nice-subarray](https://github.com/Trishhaaa/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2502-sort-the-people](https://github.com/Trishhaaa/LeetCode/tree/master/2502-sort-the-people) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Trishhaaa/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2846-robot-collisions](https://github.com/Trishhaaa/LeetCode/tree/master/2846-robot-collisions) |
@@ -383,4 +384,9 @@
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/Trishhaaa/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/Trishhaaa/LeetCode/tree/master/2478-longest-nice-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [2478-longest-nice-subarray](https://github.com/Trishhaaa/LeetCode/tree/master/2478-longest-nice-subarray) |
 <!---LeetCode Topics End-->
