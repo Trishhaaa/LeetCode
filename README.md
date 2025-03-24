@@ -191,6 +191,7 @@
 | [2379-maximum-total-importance-of-roads](https://github.com/Trishhaaa/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2502-sort-the-people](https://github.com/Trishhaaa/LeetCode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Trishhaaa/LeetCode/tree/master/2846-robot-collisions) |
+| [3430-count-days-without-meetings](https://github.com/Trishhaaa/LeetCode/tree/master/3430-count-days-without-meetings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -246,6 +247,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/Trishhaaa/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2846-robot-collisions](https://github.com/Trishhaaa/LeetCode/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Trishhaaa/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3430-count-days-without-meetings](https://github.com/Trishhaaa/LeetCode/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
 |  |
 | ------- |
