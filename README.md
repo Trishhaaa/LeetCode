@@ -188,6 +188,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/Trishhaaa/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Trishhaaa/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Trishhaaa/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Trishhaaa/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Trishhaaa/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2502-sort-the-people](https://github.com/Trishhaaa/LeetCode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Trishhaaa/LeetCode/tree/master/2846-robot-collisions) |
@@ -238,6 +239,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/Trishhaaa/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/Trishhaaa/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Trishhaaa/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Trishhaaa/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Trishhaaa/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Trishhaaa/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Trishhaaa/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -291,6 +293,7 @@
 | ------- |
 | [1642-water-bottles](https://github.com/Trishhaaa/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Trishhaaa/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Trishhaaa/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2645-pass-the-pillow](https://github.com/Trishhaaa/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
@@ -342,6 +345,7 @@
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Trishhaaa/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Trishhaaa/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Trishhaaa/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Trishhaaa/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Divide and Conquer
 |  |
