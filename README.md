@@ -250,6 +250,7 @@
 | [2846-robot-collisions](https://github.com/Trishhaaa/LeetCode/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Trishhaaa/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3430-count-days-without-meetings](https://github.com/Trishhaaa/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Trishhaaa/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -265,6 +266,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/Trishhaaa/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Trishhaaa/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/Trishhaaa/LeetCode/tree/master/2502-sort-the-people) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Trishhaaa/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Two Pointers
 |  |
 | ------- |
