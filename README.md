@@ -297,6 +297,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Trishhaaa/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Trishhaaa/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2645-pass-the-pillow](https://github.com/Trishhaaa/LeetCode/tree/master/2645-pass-the-pillow) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Trishhaaa/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -319,6 +320,7 @@
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Trishhaaa/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/Trishhaaa/LeetCode/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Trishhaaa/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Trishhaaa/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Stack
 |  |
 | ------- |
@@ -378,6 +380,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Trishhaaa/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Trishhaaa/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Trishhaaa/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Trishhaaa/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Shortest Path
 |  |
 | ------- |
