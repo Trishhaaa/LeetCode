@@ -266,6 +266,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/Trishhaaa/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Trishhaaa/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/Trishhaaa/LeetCode/tree/master/2502-sort-the-people) |
+| [3548-find-the-count-of-good-integers](https://github.com/Trishhaaa/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Trishhaaa/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Two Pointers
 |  |
@@ -299,6 +300,7 @@
 | [2645-pass-the-pillow](https://github.com/Trishhaaa/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2998-count-symmetric-integers](https://github.com/Trishhaaa/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Trishhaaa/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/Trishhaaa/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -405,4 +407,9 @@
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/Trishhaaa/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/Trishhaaa/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+## Combinatorics
+|  |
+| ------- |
+| [3548-find-the-count-of-good-integers](https://github.com/Trishhaaa/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
