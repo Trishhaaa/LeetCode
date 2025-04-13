@@ -296,6 +296,7 @@
 | ------- |
 | [1642-water-bottles](https://github.com/Trishhaaa/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Trishhaaa/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/Trishhaaa/LeetCode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Trishhaaa/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2645-pass-the-pillow](https://github.com/Trishhaaa/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2998-count-symmetric-integers](https://github.com/Trishhaaa/LeetCode/tree/master/2998-count-symmetric-integers) |
@@ -305,6 +306,7 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Trishhaaa/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/Trishhaaa/LeetCode/tree/master/2050-count-good-numbers) |
 ## Queue
 |  |
 | ------- |
