@@ -234,6 +234,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Trishhaaa/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Trishhaaa/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Trishhaaa/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1656-count-good-triplets](https://github.com/Trishhaaa/LeetCode/tree/master/1656-count-good-triplets) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Trishhaaa/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Trishhaaa/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Trishhaaa/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -408,6 +409,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Trishhaaa/LeetCode/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/Trishhaaa/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Trishhaaa/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Combinatorics
