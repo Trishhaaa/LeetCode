@@ -242,6 +242,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Trishhaaa/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Trishhaaa/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Trishhaaa/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Trishhaaa/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Trishhaaa/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Trishhaaa/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Trishhaaa/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -277,6 +278,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Trishhaaa/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Trishhaaa/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Trishhaaa/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 ## Linked List
 |  |
@@ -361,10 +363,12 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Trishhaaa/LeetCode/tree/master/0948-sort-an-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Trishhaaa/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Trishhaaa/LeetCode/tree/master/0948-sort-an-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Trishhaaa/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -397,6 +401,7 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Trishhaaa/LeetCode/tree/master/1511-count-number-of-teams) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Trishhaaa/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -416,4 +421,12 @@
 |  |
 | ------- |
 | [3548-find-the-count-of-good-integers](https://github.com/Trishhaaa/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Trishhaaa/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Trishhaaa/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
