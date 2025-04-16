@@ -248,6 +248,7 @@
 | [2472-build-a-matrix-with-conditions](https://github.com/Trishhaaa/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2478-longest-nice-subarray](https://github.com/Trishhaaa/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2502-sort-the-people](https://github.com/Trishhaaa/LeetCode/tree/master/2502-sort-the-people) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Trishhaaa/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Trishhaaa/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2846-robot-collisions](https://github.com/Trishhaaa/LeetCode/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Trishhaaa/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -268,6 +269,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/Trishhaaa/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Trishhaaa/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/Trishhaaa/LeetCode/tree/master/2502-sort-the-people) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Trishhaaa/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Trishhaaa/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Trishhaaa/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Two Pointers
@@ -411,6 +413,7 @@
 |  |
 | ------- |
 | [2478-longest-nice-subarray](https://github.com/Trishhaaa/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Trishhaaa/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Enumeration
 |  |
 | ------- |
