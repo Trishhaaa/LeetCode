@@ -13,7 +13,7 @@ class Solution {
                 if(result.charAt(j)==result.charAt(j-1)){
                     count++;
                 }
-                else{
+                else{ 
                     sb.append(count);
                     sb.append(result.charAt(j-1));
                     count=1;
