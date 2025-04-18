@@ -320,6 +320,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Trishhaaa/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Trishhaaa/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Trishhaaa/LeetCode/tree/master/0242-valid-anagram) |
 | [0726-number-of-atoms](https://github.com/Trishhaaa/LeetCode/tree/master/0726-number-of-atoms) |
