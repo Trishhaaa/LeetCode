@@ -162,6 +162,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/Trishhaaa/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Trishhaaa/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Trishhaaa/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Trishhaaa/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -227,6 +228,7 @@
 | [0049-group-anagrams](https://github.com/Trishhaaa/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Trishhaaa/LeetCode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Trishhaaa/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0797-rabbits-in-forest](https://github.com/Trishhaaa/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0948-sort-an-array](https://github.com/Trishhaaa/LeetCode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/Trishhaaa/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Trishhaaa/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -266,6 +268,7 @@
 | [0242-valid-anagram](https://github.com/Trishhaaa/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Trishhaaa/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Trishhaaa/LeetCode/tree/master/0726-number-of-atoms) |
+| [0797-rabbits-in-forest](https://github.com/Trishhaaa/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Trishhaaa/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Trishhaaa/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Trishhaaa/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -304,6 +307,7 @@
 ## Math
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/Trishhaaa/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1642-water-bottles](https://github.com/Trishhaaa/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Trishhaaa/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Trishhaaa/LeetCode/tree/master/2050-count-good-numbers) |
