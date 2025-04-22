@@ -268,6 +268,7 @@
 | [0242-valid-anagram](https://github.com/Trishhaaa/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Trishhaaa/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Trishhaaa/LeetCode/tree/master/0726-number-of-atoms) |
+| [0782-jewels-and-stones](https://github.com/Trishhaaa/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Trishhaaa/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Trishhaaa/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Trishhaaa/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -332,6 +333,7 @@
 | [0049-group-anagrams](https://github.com/Trishhaaa/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Trishhaaa/LeetCode/tree/master/0242-valid-anagram) |
 | [0726-number-of-atoms](https://github.com/Trishhaaa/LeetCode/tree/master/0726-number-of-atoms) |
+| [0782-jewels-and-stones](https://github.com/Trishhaaa/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Trishhaaa/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Trishhaaa/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Trishhaaa/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
