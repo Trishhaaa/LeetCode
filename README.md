@@ -187,6 +187,7 @@
 | [0726-number-of-atoms](https://github.com/Trishhaaa/LeetCode/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/Trishhaaa/LeetCode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Trishhaaa/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Trishhaaa/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Trishhaaa/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Trishhaaa/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Trishhaaa/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -234,6 +235,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/Trishhaaa/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Trishhaaa/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Trishhaaa/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Trishhaaa/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Trishhaaa/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Trishhaaa/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Trishhaaa/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -271,6 +273,7 @@
 | [0782-jewels-and-stones](https://github.com/Trishhaaa/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Trishhaaa/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Trishhaaa/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Trishhaaa/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Trishhaaa/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Trishhaaa/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Trishhaaa/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -395,6 +398,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Trishhaaa/LeetCode/tree/master/0948-sort-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Trishhaaa/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Trishhaaa/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Trishhaaa/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Dynamic Programming
