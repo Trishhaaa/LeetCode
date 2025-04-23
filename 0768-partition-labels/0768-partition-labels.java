@@ -1,19 +1,31 @@
 class Solution {
     public List<Integer> partitionLabels(String s) {
-        HashMap<Character, Integer> lastIndex= new HashMap<>();
+       List<Integer> partitionSizes= new ArrayList<>();
+        HashMap<Character, Integer> lastOcc= new HashMap<>();
+        HashMap<Character, Integer> firstOcc= new HashMap<>();
         for(int i=0;i<s.length();i++){
-            lastIndex.put(s.charAt(i),i);
-        }
-        int partEnd=0, partStart=0;
-        List<Integer> partSizes= new ArrayList<>();
-        for(int i=0;i<s.length();i++){
-            partEnd=Math.max(partEnd,lastIndex.get(s.charAt(i)));
-
-            if(i==partEnd){
-                partSizes.add(i-partStart+1);
-                partStart=i+1;
+            if(!firstOcc.containsKey(s.charAt(i))){
+                firstOcc.put(s.charAt(i),i);
             }
         }
-        return partSizes;
+        for(int i=0;i<s.length();i++){
+            lastOcc.put(s.charAt(i),i);
+        }
+        int partStart=0, partEnd=0;
+        for(int i=0;i<s.length();i++){
+            //if we find a new partition start
+            if(partEnd<firstOcc.get(s.charAt(i))){
+                partitionSizes.add(partEnd-partStart+1);
+                partStart=i;
+                partEnd=i;
+            }
+            //update the partition boundaries
+            partEnd= Math.max(partEnd,lastOcc.get(s.charAt(i))); 
+        }
+        //add the last partition if it exists
+        if(partEnd-partStart+1>0){
+                partitionSizes.add(partEnd-partStart+1);
+        }
+        return partitionSizes; 
     }
 }
