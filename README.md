@@ -227,6 +227,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Trishhaaa/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Trishhaaa/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Trishhaaa/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Trishhaaa/LeetCode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Trishhaaa/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -287,6 +288,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Trishhaaa/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Trishhaaa/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0768-partition-labels](https://github.com/Trishhaaa/LeetCode/tree/master/0768-partition-labels) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Trishhaaa/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
