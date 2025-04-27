@@ -10,14 +10,13 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        ListNode f=head;
-        ListNode s=head;
+       ListNode fast=head;
+       ListNode slow=head;
 
-        //f moves by 2 and s moves by 1, so when f reaches the end, s is at the middle;
-        while(f!=null && f.next!=null){
-            s=s.next;
-            f=f.next.next;
-        }
-        return s;
+       while(fast!=null && fast.next!=null){
+        fast=fast.next.next;
+        slow=slow.next;
+       }
+       return slow;
     }
 }
