@@ -292,6 +292,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Trishhaaa/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Trishhaaa/LeetCode/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/Trishhaaa/LeetCode/tree/master/0768-partition-labels) |
+| [0908-middle-of-the-linked-list](https://github.com/Trishhaaa/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Trishhaaa/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
@@ -303,6 +304,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0908-middle-of-the-linked-list](https://github.com/Trishhaaa/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Trishhaaa/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Trishhaaa/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
