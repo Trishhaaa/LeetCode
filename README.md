@@ -290,6 +290,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Trishhaaa/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Trishhaaa/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Trishhaaa/LeetCode/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/Trishhaaa/LeetCode/tree/master/0768-partition-labels) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Trishhaaa/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
@@ -340,6 +341,7 @@
 | [0038-count-and-say](https://github.com/Trishhaaa/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Trishhaaa/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Trishhaaa/LeetCode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Trishhaaa/LeetCode/tree/master/0392-is-subsequence) |
 | [0726-number-of-atoms](https://github.com/Trishhaaa/LeetCode/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Trishhaaa/LeetCode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Trishhaaa/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -410,6 +412,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Trishhaaa/LeetCode/tree/master/0392-is-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/Trishhaaa/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Trishhaaa/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Trishhaaa/LeetCode/tree/master/1511-count-number-of-teams) |
